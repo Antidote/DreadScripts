@@ -1,0 +1,9 @@
+s010_cave ........ Artaria
+s020_magma ....... Cataris
+s030_baselab ..... Dairon
+s040_aqua ........ Burenia
+s050_forest ...... Ghavoran
+s060_quarantine .. Ferenia
+s070_basesanc .... Elun
+s080_shipyard .... Hanubia
+s090_skybase ..... Itorash
