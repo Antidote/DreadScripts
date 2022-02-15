@@ -1,0 +1,2 @@
+function Emmy.main()
+end
